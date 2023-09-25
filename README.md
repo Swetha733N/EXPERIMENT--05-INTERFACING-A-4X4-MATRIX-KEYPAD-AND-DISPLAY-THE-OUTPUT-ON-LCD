@@ -182,6 +182,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 ## DEVELOPED BY:SWETHA N
 ## REG.NO:212222110050
 #include "main.h"
@@ -335,7 +336,7 @@ else if(!col2)
 	  HAL_Delay(500);
   }
 }
-
+```
 
 
 ## Output screen shots of proteus  :
